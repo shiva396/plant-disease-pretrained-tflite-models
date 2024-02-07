@@ -1,6 +1,6 @@
 # TensorFlow Lite ML Model Repository
 
-Welcome to the TensorFlow Lite ML Model Repository, where you can find optimized machine learning models for various fruits and vegetables. Our collection includes models for Apple, Cotton, Guava, Mango, Tomato, and Potato.
+Welcome to the TensorFlow Lite ML Model Repository, where you can find optimized machine learning models for various fruits and vegetable plant leaf disease models.
 
 ## Apple Model
 
@@ -16,10 +16,8 @@ Welcome to the TensorFlow Lite ML Model Repository, where you can find optimized
 
 ### Why Choose TensorFlow Lite Models?
 
-Easily ported with flutter applications. Built using (<a href = "teachablemachine.com">teachablemachine.com</a>)
+Easily ported with flutter applications. Built using (<a href = "https://teachablemachine.withgoogle.com/">Teachable Machine</a>)
 
-Our TensorFlow Lite models are optimized for mobile and edge devices, ensuring high performance even with limited resources. Whether you're developing applications for agriculture, food processing, or research, our models provide a reliable solution.
-
-Feel free to explore and download the models that suit your needs. For any inquiries or support, please contact us through [Email](mailto:sit21cs163@sairamtap.edu.in).
+These TensorFlow Lite models are optimized for mobile and edge devices, ensuring high performance even with limited resources. Whether you're developing applications for agriculture, food processing, or research, our models provide a reliable solution.
 
 **Start building smarter applications with TensorFlow Lite ML models today!**
