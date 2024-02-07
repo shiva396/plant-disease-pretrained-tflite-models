@@ -2,17 +2,9 @@
 
 Welcome to the TensorFlow Lite ML Model Repository, where you can find optimized machine learning models for various fruits and vegetable plant leaf disease models.
 
-## Apple Model
+### How to integrate the model with flutter application?
 
-## Cotton Model
-
-## Guava Model
-
-## Mango Model
-
-## Tomato Model
-
-## Potato Model
+Just by adding <a href="https://pub.dev/packages/tflite_flutter">tflite_flutter<a> package to pubspec dependancy. For code refer package example code.
 
 ### Why Choose TensorFlow Lite Models?
 
